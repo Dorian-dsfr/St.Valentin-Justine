@@ -290,10 +290,10 @@ export function Fin() {
           className="z-10 text-center">
 
             <h2 className="font-serif text-5xl md:text-7xl text-gold mb-8 drop-shadow-[0_0_15px_rgba(201,169,78,0.5)]">
-              Je savais que tu dirais oui… ❤️
+              Eh bha voila je le savais..
             </h2>
             <p className="font-serif text-2xl md:text-3xl text-crimson italic mb-12">
-              Je t'aime plus que tout.
+              Maintenant t'es obligé de resté hahahaha.
             </p>
 
             <motion.button

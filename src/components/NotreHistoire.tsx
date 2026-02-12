@@ -5,24 +5,24 @@ import { playWhoosh, playShimmer } from '../hooks/useSoundEffects';
 gsap.registerPlugin(ScrollTrigger);
 const milestones = [
 {
-  year: '2020',
-  title: 'Le premier regard',
-  desc: 'Un instant suspendu dans le temps.'
+  year: '15 oct 2023',
+  title: 'Le premier message',
+  desc: "Le jour de ton anniversaire"
 },
 {
-  year: '2021',
-  title: 'Le premier baiser',
-  desc: 'Sous la pluie de Paris, inoubliable.'
+  year: '28 aout 2025',
+  title: 'La première rencontre',
+  desc: 'découverte de la folle du bus (toi)'
 },
 {
-  year: '2022',
-  title: 'Notre premier voyage',
-  desc: 'Perdus ensemble dans les rues de Rome.'
+  year: '17 sept 2025',
+  title: 'Le premier au-revoir',
+  desc: 'fameuse photo dans le train avec le coeur'
 },
 {
-  year: '2024',
-  title: "Aujourd'hui",
-  desc: 'Plus amoureux que jamais.'
+  year: 'juillet 2026',
+  title: "Les retrouvailles",
+  desc: 'La plus belle chose de 2026'
 }];
 
 export function NotreHistoire() {

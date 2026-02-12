@@ -10,7 +10,7 @@ export function OpeningCredits() {
   const opacity = useTransform(scrollYProgress, [0, 0.5], [1, 0]);
   const scale = useTransform(scrollYProgress, [0, 0.5], [1, 0.9]);
   const title = 'Saint-Valentin';
-  const subtitle = "Une histoire d'amour";
+  const subtitle = "Le début d'une très grande histoire";
   // Sound effect scheduling
   useEffect(() => {
     const timeoutIds: number[] = [];
