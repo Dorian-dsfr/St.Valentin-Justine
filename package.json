@@ -15,7 +15,6 @@
     "@emotion/react": "^11.13.3",
     "framer-motion": "^11.5.4",
     "gsap": "^3.12.5",
-    "gsap/ScrollTrigger": "latest",
     "lucide-react": "0.522.0"
   },
   "devDependencies": {
