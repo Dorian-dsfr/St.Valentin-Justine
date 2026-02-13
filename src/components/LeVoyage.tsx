@@ -167,7 +167,7 @@ export function LeVoyage() {
             textAnchor="middle"
             className="font-serif text-sm">
 
-            L'Avenir
+            L'île Maurice
           </text>
         </svg>
 

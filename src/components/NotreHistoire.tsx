@@ -11,18 +11,18 @@ const milestones = [
 },
 {
   year: '28 aout 2025',
-  title: 'La première rencontre',
-  desc: 'découverte de la folle du bus (toi)'
+  title: 'Notre première rencontre',
+  desc: "J'ai direct su que tu étais différente"
 },
 {
   year: '17 sept 2025',
-  title: 'Le premier au-revoir',
-  desc: 'fameuse photo dans le train avec le coeur'
+  title: 'Nos au-revoir',
+  desc: "Le moment qu'on redoutait le plus"
 },
 {
   year: 'juillet 2026',
-  title: "Les retrouvailles",
-  desc: 'La plus belle chose de 2026'
+  title: "Les retrouvailles ( bientôt )",
+  desc: "J'annonce : le plus beau moment de 2026"
 }];
 
 export function NotreHistoire() {

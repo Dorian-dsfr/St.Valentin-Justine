@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { playEtherealReveal } from '../hooks/useSoundEffects';
 gsap.registerPlugin(ScrollTrigger);
 const promises = [
-"Je promets de t'aimer chaque jour davantage",
+"Je promets de te faire passer des vacances inoubliables",
 'Je promets de toujours te faire rire',
 'Je promets que chaque aventure sera la nôtre'];
 

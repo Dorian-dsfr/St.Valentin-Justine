@@ -61,7 +61,7 @@ export function LettreAmour() {
             variants={textVariants}
             className="font-serif text-4xl text-gold mb-4">
 
-            Lettre d'Amour
+            Lettre
           </motion.h2>
           <motion.div
             variants={textVariants}
@@ -70,33 +70,35 @@ export function LettreAmour() {
         </div>
 
         <div className="font-body text-xl md:text-2xl text-gray-200 leading-relaxed space-y-8 text-justify">
-          <motion.p variants={textVariants}>Mon amour,</motion.p>
+          <motion.p variants={textVariants}>Ma justine,</motion.p>
 
           <motion.p variants={textVariants}>
-            Dans ce monde en noir et blanc, tu es ma seule couleur. Chaque
-            instant passé à tes côtés est comme une scène de cinéma que je
-            voudrais rejouer à l'infini. Ton rire est la mélodie qui rythme mes
-            jours, et ton regard, la lumière qui guide mes nuits.
+            Je te rassure je vais pas être cucu, car tu n'aimes pas ça.
+            Je vais être clair pour tu puisses t'imprégner de cette lettre.
+            Tu le sais surement déjà, même enfoui sous de nombreuses peurs,
+            mais ma place est avec toi.
           </motion.p>
 
           <motion.p variants={textVariants}>
-            Je me souviens de chaque détail, de chaque sourire, de chaque
-            silence partagé. Notre histoire n'est pas seulement une suite de
-            moments, c'est une œuvre d'art que nous peignons ensemble, jour
-            après jour, avec la patience des orfèvres et la passion des amants.
+            Ma lettre n'est pas faite pour te rassurer, je l'écris pour que tu réalises quelque chose.
+            Je suis un homme qui vit à travers ses objectifs, quoi qu'il arrive,
+            je les atteins, c'est une de mes plus grandes forces. Ce que je veux dire par la,
+            c'est que, depuis quelques mois j'ai un nouvel objectif.
+            Mais celui la a quelque chose de différent.
           </motion.p>
 
           <motion.p variants={textVariants}>
-            Aujourd'hui, je veux simplement te dire que je t'aime, d'un amour
-            profond, sincère et éternel. Tu es mon passé, mon présent et mon
-            avenir.
+            Cette objectif je ne veux pas l'atteindre, tu sais pourquoi ?
+            Car je ne veux pas de fin, je veux pouvoir sans cesse, arriver
+            de plus en plus proche, mais sans jamais l'atteindre.
+            Cette objectif c'est TOI, et jamais j'abandonnerai.
           </motion.p>
 
           <motion.p
             variants={textVariants}
             className="text-right mt-12 text-gold italic">
 
-            — Ton amour
+            — Dorian
           </motion.p>
         </div>
 
