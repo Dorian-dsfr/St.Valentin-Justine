@@ -70,7 +70,7 @@ export function LettreAmour() {
         </div>
 
         <div className="font-body text-xl md:text-2xl text-gray-200 leading-relaxed space-y-8 text-justify">
-          <motion.p variants={textVariants}>Ma justine,</motion.p>
+          <motion.p variants={textVariants}>Ma chérie,</motion.p>
 
           <motion.p variants={textVariants}>
             Je te rassure je vais pas être cucu, car tu n'aimes pas ça.
